@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/user/repo/main/preview.png" alt="Preview">
+  <img src="https://raw.githubusercontent.com/PixelatedColors/FluxHub/refs/heads/main/assets/2.png" alt="Preview">
 </p>
 
 A lightweight Roblox script hub with a simple UI and fast execution.
