@@ -1,6 +1,4 @@
-![Discord][shield-discord-server]
-
- [!CAUTION]
+> [!CAUTION]
 > The only official places to get FluxHub is this GitHub repository and ScriptBlox. Any other websites claiming to be us are not owned by me.
 
 > [!IMPORTANT]
@@ -9,7 +7,6 @@
   <img src="https://raw.githubusercontent.com/PixelatedColors/FluxHub/refs/heads/main/assets/2.png" alt="Preview">
 </p>
 
-![Discord][shield-discord-server]
 
 A lightweight Roblox script hub with a simple UI and fast execution.
 ## Installation
