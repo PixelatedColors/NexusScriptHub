@@ -7,6 +7,8 @@
   <img src="https://raw.githubusercontent.com/PixelatedColors/FluxHub/refs/heads/main/assets/2.png" alt="Preview">
 </p>
 
+![Discord][shield-discord-server]
+
 A lightweight Roblox script hub with a simple UI and fast execution.
 ## Installation
 - Install any script executor (Use WhatExpsAre.online to find safe executors)
