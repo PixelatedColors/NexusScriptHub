@@ -65,6 +65,25 @@ local MTab = Window:Tab({
     Icon = "home", -- optional
     Locked = false,
 })
+
+local Paragraph = MTab:Paragraph({
+    Title = "Changlelogs 1/8/2026",
+    Desc = "+ Added Home Tab",
+    Color = "Red",
+    Image = "",
+    ImageSize = 30,
+    Thumbnail = "",
+    ThumbnailSize = 80,
+    Locked = false,
+    Buttons = {
+        {
+            Icon = "bird",
+            Title = "Button",
+            Callback = function() print("1 Button") end,
+        }
+    }
+})
+
 local Button = MTab:Button({
     Title = "Button",
     Desc = "Test Button",
