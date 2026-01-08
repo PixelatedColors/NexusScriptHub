@@ -3,12 +3,12 @@ print("Thank you for using FluxHub")
 wait(1)
 print("[DEBUG] VERSION CHECKER LOADING....")
 wait(1)
-print("[DEBUG] VERSION - F5/1/26 (LATEST)")
+print("[DEBUG] VERSION - A126 (LATEST)")
 wait(1)
 print("[DEBUG] Installing Dependencies")
 wait(2)
 print("[DEBUG] Loading UILibrary")
-print("[DEBUG] CRITICAL ERROR, ABORTED.")
+print("[DEBUG] Loaded.")
 local WindUI = loadstring(game:HttpGet("https://github.com/Footagesus/WindUI/releases/latest/download/main.lua"))()
 local Window = WindUI:CreateWindow({
     Title = "FluxHub | Alpha A126",
@@ -49,9 +49,9 @@ local Window = WindUI:CreateWindow({
     -- !  ↓  if you DON'T need the key system
     KeySystem = { 
         -- ↓ Optional. You can remove it.
-        Key = { "1234", "5678" },
+        Key = { "HappyNewYear2026", "TESTERKEYNIGGA2029" },
         
-        Note = "Example Key System.",
+        Note = "Linkvertise has been copied to your clipboard.",
         
         -- ↓ Optional. You can remove it.
         Thumbnail = {
