@@ -67,9 +67,9 @@ local MTab = Window:Tab({
 })
 
 local Paragraph = MTab:Paragraph({
-    Title = "Changlelogs 1/8/2026",
-    Desc = "+ Added Home Tab",
-    Color = "Red",
+    Title = "Join the Discord!",
+    Desc = "Join the discord for changelogs and fixes.",
+    Color = "Blue",
     Image = "",
     ImageSize = 30,
     Thumbnail = "",
@@ -77,9 +77,9 @@ local Paragraph = MTab:Paragraph({
     Locked = false,
     Buttons = {
         {
-            Icon = "bird",
-            Title = "Button",
-            Callback = function() print("1 Button") end,
+            Icon = "sparkles",
+            Title = "Copy Invite",
+            Callback = function() setclipboard("https://discord.gg/rvth4mZnhD") end,
         }
     }
 })
